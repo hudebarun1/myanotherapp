@@ -1,8 +1,8 @@
 package com.medzhealth.common;
 
 import javax.xml.bind.annotation.XmlRootElement;
-
-@XmlRootElement(name="location")
+//adding a comment to test commit; delete this afterwards;
+@XmlRootElement(name="location") 
 public class AddressCO {
 
 	private String city;
